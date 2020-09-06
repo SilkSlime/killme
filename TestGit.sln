@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGit", "TestGit\TestGit.csproj", "{ED6196AE-3A0D-437E-BAA9-16B5DF347515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6196AE-3A0D-437E-BAA9-16B5DF347515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6196AE-3A0D-437E-BAA9-16B5DF347515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6196AE-3A0D-437E-BAA9-16B5DF347515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6196AE-3A0D-437E-BAA9-16B5DF347515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
